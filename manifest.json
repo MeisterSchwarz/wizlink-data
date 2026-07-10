@@ -1,0 +1,58 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "2026.07.1",
+  "defaultLanguage": "de",
+  "languages": ["de"],
+  "files": {
+    "worlds": {
+      "core": "core/worlds.json",
+      "translations": {
+        "de": "i18n/de/worlds.json"
+      }
+    },
+    "zones": [
+      {
+        "id": "Aquila",
+        "core": "core/zones/Aquila.json",
+        "translations": {
+          "de": "i18n/de/zones/Aquila.json"
+        }
+      },
+      {
+        "id": "Krokotopia",
+        "core": "core/zones/Krokotopia.json",
+        "translations": {
+          "de": "i18n/de/zones/Krokotopia.json"
+        }
+      }
+    ],
+    "enemies": [
+      {
+        "id": "Krokotopia",
+        "core": "core/enemies/Krokotopia.json",
+        "translations": {
+          "de": "i18n/de/enemies/Krokotopia.json"
+        }
+      }
+    ],
+    "items": [
+      {
+        "id": "reagents",
+        "core": "core/items/reagents.json",
+        "translations": {
+          "de": "i18n/de/items/reagents.json"
+        }
+      },
+      {
+        "id": "robes",
+        "core": "core/items/robes.json",
+        "translations": {
+          "de": "i18n/de/items/robes.json"
+        }
+      }
+    ],
+    "stats": {
+      "drops": "core/stats/drops.json"
+    }
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "WizardCity": {
+    "name": "Wizard City"
+  },
+  "Krokotopia": {
+    "name": "Krokotopia"
+  },
+  "Marleybone": {
+    "name": "Marleybone"
+  },
+  "Aquila": {
+    "name": "Aquila",
+    "description": "Eine Nebenwelt mit den Dungeons Olymp, Atlantea und Tartarus."
+  },
+  "Housing": {
+    "name": "Häuser"
+  },
+  "Dungeons": {
+    "name": "Dungeons"
+  },
+  "Minigames": {
+    "name": "Minispiele"
+  }
+}

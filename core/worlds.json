@@ -1,0 +1,37 @@
+{
+  "WizardCity": {
+    "image": "wizardcity",
+    "order": 1,
+    "type": "main"
+  },
+  "Krokotopia": {
+    "image": "krokotopia",
+    "order": 2,
+    "type": "main"
+  },
+  "Marleybone": {
+    "image": "marleybone",
+    "order": 3,
+    "type": "main"
+  },
+  "Aquila": {
+    "image": "aquila",
+    "order": 20,
+    "type": "side"
+  },
+  "Housing": {
+    "image": "housing",
+    "order": 100,
+    "type": "system"
+  },
+  "Dungeons": {
+    "image": "dungeons",
+    "order": 101,
+    "type": "group"
+  },
+  "Minigames": {
+    "image": "minigames",
+    "order": 102,
+    "type": "system"
+  }
+}
