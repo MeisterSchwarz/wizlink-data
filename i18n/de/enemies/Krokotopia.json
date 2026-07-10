@@ -1,13 +1,5 @@
 {
-  "enemies": {
-    "KrokPharaoh-FirePony-L02": {
-      "name": "Nirini-Späher"
-    },
-    "KrokPharaoh-FireBird-L02": {
-      "name": "Nirini-Wache"
-    },
-    "KrokPharaoh-FireHair-KTBoss-L03": {
-      "name": "Biti Nirini"
-    }
-  }
+  "KrokPharaoh-FireBird-L02": "Nirini-Wache",
+  "KrokPharaoh-FireHair-KTBoss-L03": "Biti Nirini",
+  "KrokPharaoh-FirePony-L02": "Nirini-Späher"
 }

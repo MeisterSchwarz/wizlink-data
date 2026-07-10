@@ -1,7 +1,3 @@
 {
-  "enemies": {
-    "Pig-Bandit-Ninja-L27": {
-      "name": "Sanzoku-Bandit"
-    }
-  }
+  "Pig-Bandit-Ninja-L27": "Sanzoku-Bandit"
 }

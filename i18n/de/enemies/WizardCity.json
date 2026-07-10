@@ -1,10 +1,4 @@
 {
-  "enemies": {
-    "Cyclops-Blue-L02": {
-      "name": "Zyklopen-Legionär"
-    },
-    "Troll-Green-L01": {
-      "name": "Träger Troll"
-    }
-  }
+  "Cyclops-Blue-L02": "Zyklopen-Legionär",
+  "Troll-Green-L01": "Träger Troll"
 }
