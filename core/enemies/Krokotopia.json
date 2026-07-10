@@ -1,0 +1,9 @@
+{
+  "enemies": {
+    "KrokPharaoh-FirePony-L02": {
+      "zones": [
+        "Krokotopia/KT_Pyramid/KT_PalaceOfFire"
+      ]
+    }
+  }
+}
