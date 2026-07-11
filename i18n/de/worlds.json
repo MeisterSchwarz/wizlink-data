@@ -59,12 +59,21 @@
   "Darkmoor": {
     "name": "Düstermoor"
   },
+  "Grizzleheim": {
+    "name": "Grizzleheim"
+  },
+  "Wysteria": {
+    "name": "Wysteria"
+  },
   "Aquila": {
     "name": "Aquila",
     "description": "Eine Nebenwelt mit den Dungeons Olymp, Atlantea und Tartarus."
   },
   "Housing": {
     "name": "Häuser"
+  },
+  "Catacombs": {
+    "name": "Katakomben"
   },
   "Dungeons": {
     "name": "Dungeons"

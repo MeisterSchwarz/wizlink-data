@@ -55,12 +55,5 @@
 
   "Darkmoor/Interiors/DM_Z05_HereticalAcademy": ["Scholomantie", "Ketzer-Akademie"],
   "Darkmoor/Interiors/DM_Z05I02_Parlor": ["Scholomantie", "Miranda Dorn"],
-  "Darkmoor/Interiors/DM_Z05I03_HallOfDefilement": ["Scholomantie", "Rindenruhe"],
-
-  "G14_DM/DM_Z01_CastleDarkmoor": "Schloss Düstermoor",
-  "G14_DM/DM_Z06_Bridge": "Friedhof",
-  "G14_DM/DM_Z07_Graveyard": ["Friedhof", "Yevgeny Nachtschleicher"],
-  "G14_DM/Interiors/DM_Z08_I01_MausoleumTop": ["Friedhof", "Malistaire der Todtrotzer"],
-  "G14_DM/Interiors/DM_Z08_I02_Mausoleum_Lower": ["Friedhof", "Schannt von Schannt"],
-  "G14_DM/Interiors/DM_Z08_I03_SkeletonKey2": ["Friedhof", "Aphrodite II"]
+  "Darkmoor/Interiors/DM_Z05I03_HallOfDefilement": ["Scholomantie", "Rindenruhe"]
 }

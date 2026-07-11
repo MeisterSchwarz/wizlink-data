@@ -1,0 +1,14 @@
+{
+    "G14_DM/DM_Z01_CastleDarkmoor": "Schloss Düstermoor",
+    "G14_DM/DM_Z06_Bridge": "Friedhof",
+    "G14_DM/DM_Z07_Graveyard": ["Friedhof", "Yevgeny Nachtschleicher"],
+    "G14_DM/Interiors/DM_Z08_I01_MausoleumTop": ["Friedhof", "Malistaire der Todtrotzer"],
+    "G14_DM/Interiors/DM_Z08_I02_Mausoleum_Lower": ["Friedhof", "Schannt von Schannt"],
+    "G14_DM/Interiors/DM_Z08_I03_SkeletonKey2": ["Friedhof", "Aphrodite II"],
+
+    "G14_HS/HS_Z01_ZigazagUpper": "Oberer Zickezack",
+    "G14_SB/SB_Z01_KimbaalungVillage": "Kembaalung",
+    "G14_SB/SB_Z02_PagodaRoom01": "Pagode der Harmonie (1/3)",
+    "G14_SB/SB_Z03_PagodaRoom02": "Pagode der Harmonie (2/3)",
+    "G14_SB/SB_Z04_PagodaRoom03": "Pagode der Harmonie (3/3)"
+}

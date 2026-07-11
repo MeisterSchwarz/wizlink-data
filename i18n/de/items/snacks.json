@@ -1,12 +1,12 @@
 {
-    "sn-blonde-strawberry": "Blonde Erdbeere",
-    "sn-bread": "Brot",
-    "sn-bubblegum": "Kaugummi",
-    "sn-carrot": "Karotte",
-    "sn-harvest-corn": "Herbstmais",
+    "sn_blonde-strawberry": "Blonde Erdbeere",
+    "sn_bread": "Brot",
+    "sn_bubblegum": "Kaugummi",
+    "sn_carrot": "Karotte",
+    "sn_harvest-corn": "Herbstmais",
     "sn_large-watermelon": "Riesenwassermelone",
-    "sn-nettle-root": "Nesselwurz",
-    "sn-radioactive-pizza": "Plutonium-Pizza",
-    "sn-star-fruit": "Sternfrucht",
-    "sn-tiny-fish": "Kleiner Fisch"
+    "sn_nettle-root": "Nesselwurz",
+    "sn_radioactive-pizza": "Plutonium-Pizza",
+    "sn_star-fruit": "Sternfrucht",
+    "sn_tiny-fish": "Kleiner Fisch"
 }

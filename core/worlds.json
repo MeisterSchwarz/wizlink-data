@@ -99,9 +99,24 @@
     "order": 20,
     "type": "main"
   },
+  "Grizzleheim": {
+    "image": "grizzleheim",
+    "order": 30,
+    "type": "side"
+  },
+  "Wysteria": {
+    "image": "wysteria",
+    "order": 40,
+    "type": "side"
+  },
   "Aquila": {
     "image": "aquila",
     "order": 50,
+    "type": "side"
+  },
+  "Catacombs": {
+    "image": "catacombs",
+    "order": 60,
     "type": "side"
   },
   "Housing": {
@@ -112,10 +127,10 @@
   "Dungeons": {
     "image": "dungeons",
     "order": 101,
-    "type": "group"
+    "type": "side"
   },
   "Minigames": {
-    "image": "minigames",
+    "image": "wizardcity",
     "order": 102,
     "type": "system"
   }
