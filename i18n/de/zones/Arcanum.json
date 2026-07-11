@@ -1,120 +1,33 @@
 {
-	"zones": {
-        "Arcanum/AR_Z01_Hub": {
-            "name": "Panoktikum"
-        },
-        "Arcanum/AR_Z02_LowerDecks": {
-            "name": "Untere Decks"
-        },
-        "Arcanum/Interiors/AR_Dunes": {
-            "name": "Sandmeer"
-        },
-        "Arcanum/Interiors/AR_Z01_AstralPlane": {
-            "name": "Astralebene",
-            "sub": "Geist von Großmutter Rabe"
-        },
-        "Arcanum/Interiors/AR_ShadowTricksterLair_01": {
-            "name": "Panoktikum",
-            "sub": "Schattentrickser"
-        },
-        "Arcanum/Interiors/AR_Z01_ArbitersArena": {
-            "name": "Panoktikum",
-            "sub": "Cyrio Cassini"
-        },
-        "Arcanum/Interiors/AR_Z01_ArbitersArena02": {
-            "name": "Panoktikum",
-            "sub": "Elementar der Leere"
-        },
-        "Arcanum/Interiors/AR_Z01_CursedRepository": {
-            "name": "Panoktikum",
-            "sub": "Verfluchtes Lager"
-        },
-        "Arcanum/Interiors/AR_Z01_DeadArchive": {
-            "name": "Panoktikum",
-            "sub": "Totenarchiv"
-        },
-        "Arcanum/Interiors/AR_Z01_DeathSchool": {
-            "name": "Panoktikum",
-            "sub": "Kammer der Nekromantie"
-        },
-        "Arcanum/Interiors/AR_Z01_DrockDock_NoShip": {
-            "name": "Trockendock"
-        },
-        "Arcanum/Interiors/AR_Z01_I01_DryDock": {
-            "name": "Trockendock"
-        },
-        "Arcanum/Interiors/AR_Z01_FireSchool": {
-            "name": "Panoktikum",
-            "sub": "Kammer der Pyromantie"
-        },
-        "Arcanum/Interiors/AR_Z01_IceSchool": {
-            "name": "Panoktikum",
-            "sub": "Kammer der Protektion"
-        },
-        "Arcanum/Interiors/AR_Z01_Infirmary": {
-            "name": "Panoktikum",
-            "sub": "Krankenstation"
-        },
-        "Arcanum/Interiors/AR_Z01_LifeSchool": {
-            "name": "Panoktikum",
-            "sub": "Kammer der Heilung"
-        },
-        "Arcanum/Interiors/AR_Z01_LifeSupport": {
-            "name": "Panoktikum",
-            "sub": "Lebenserhaltung"
-        },
-        "Arcanum/Interiors/AR_Z01_LiminalSpace": {
-            "name": "Sybilles Traum"
-        },
-        "Arcanum/Interiors/AR_Z01_MusicologyOffice": {
-            "name": "Panoktikum",
-            "sub": "Musikraum"
-        },
-        "Arcanum/Interiors/AR_Z01_MythSchool": {
-            "name": "Panoktikum",
-            "sub": "Kammer der Beschwörung"
-        },
-        "Arcanum/Interiors/AR_Z01_RecoveryRoom": {
-            "name": "Panoktikum",
-            "sub": "Genesungsraum"
-        },
-        "Arcanum/Interiors/AR_Z01_TheBridge": {
-            "name": "Brücke"
-        },
-        "Arcanum/Interiors/AR_Z01_SchismReadingRoom": {
-            "name": "Panoktikum",
-            "sub": "Lesesaal der Spaltung"
-        },
-        "Arcanum/Interiors/AR_Z01_ShadowSchool": {
-            "name": "Panoktikum",
-            "sub": "Kammer der Schatten"
-        },
-        "Arcanum/Interiors/AR_Z01_StormSchool": {
-            "name": "Panoktikum",
-            "sub": "Kammer der Zerstörung"
-        },
-        "Arcanum/Interiors/AR_Z02_EnergyCorridor": {
-            "name": "Untere Decks",
-            "sub": "Energiekorridor"
-        },
-        "Arcanum/Interiors/AR_Z02_LumiHostageRoom": {
-            "name": "Untere Decks",
-            "sub": "Lumi-Geisel-Raum"
-        },
-        "Arcanum/Interiors/AR_Z02_PowerCore": {
-            "name": "Untere Decks",
-            "sub": "Energiekern"
-        },
-        "Arcanum/Interiors/AR_Z02_WindgineRoom": {
-            "name": "Untere Decks",
-            "sub": "Windtriebsraum"
-        },
-        "Arcanum/Interiors/AR_Z03_ArkCrashCinematic": {
-            "name": "Spiralarche",
-            "sub": "Flug nach Empyrea"
-        },
-        "Arcanum/Interiors/AR_Z03_ArkShip": {
-            "name": "Spiralarche"
-        }
-	}
+  "Arcanum/AR_Z01_Hub": "Panoktikum",
+  "Arcanum/AR_Z02_LowerDecks": "Untere Decks",
+  "Arcanum/Interiors/AR_Dunes": "Sandmeer",
+  "Arcanum/Interiors/AR_Z01_AstralPlane": ["Astralebene", "Geist von Großmutter Rabe"],
+  "Arcanum/Interiors/AR_ShadowTricksterLair_01": ["Panoktikum", "Schattentrickser"],
+  "Arcanum/Interiors/AR_Z01_ArbitersArena": ["Panoktikum", "Cyrio Cassini"],
+  "Arcanum/Interiors/AR_Z01_ArbitersArena02": ["Panoktikum", "Elementar der Leere"],
+  "Arcanum/Interiors/AR_Z01_CursedRepository": ["Panoktikum", "Verfluchtes Lager"],
+  "Arcanum/Interiors/AR_Z01_DeadArchive": ["Panoktikum", "Totenarchiv"],
+  "Arcanum/Interiors/AR_Z01_DeathSchool": ["Panoktikum", "Kammer der Nekromantie"],
+  "Arcanum/Interiors/AR_Z01_DrockDock_NoShip": "Trockendock",
+  "Arcanum/Interiors/AR_Z01_I01_DryDock": "Trockendock",
+  "Arcanum/Interiors/AR_Z01_FireSchool": ["Panoktikum", "Kammer der Pyromantie"],
+  "Arcanum/Interiors/AR_Z01_IceSchool": ["Panoktikum", "Kammer der Protektion"],
+  "Arcanum/Interiors/AR_Z01_Infirmary": ["Panoktikum", "Krankenstation"],
+  "Arcanum/Interiors/AR_Z01_LifeSchool": ["Panoktikum", "Kammer der Heilung"],
+  "Arcanum/Interiors/AR_Z01_LifeSupport": ["Panoktikum", "Lebenserhaltung"],
+  "Arcanum/Interiors/AR_Z01_LiminalSpace": "Sybilles Traum",
+  "Arcanum/Interiors/AR_Z01_MusicologyOffice": ["Panoktikum", "Musikraum"],
+  "Arcanum/Interiors/AR_Z01_MythSchool": ["Panoktikum", "Kammer der Beschwörung"],
+  "Arcanum/Interiors/AR_Z01_RecoveryRoom": ["Panoktikum", "Genesungsraum"],
+  "Arcanum/Interiors/AR_Z01_TheBridge": "Brücke",
+  "Arcanum/Interiors/AR_Z01_SchismReadingRoom": ["Panoktikum", "Lesesaal der Spaltung"],
+  "Arcanum/Interiors/AR_Z01_ShadowSchool": ["Panoktikum", "Kammer der Schatten"],
+  "Arcanum/Interiors/AR_Z01_StormSchool": ["Panoktikum", "Kammer der Zerstörung"],
+  "Arcanum/Interiors/AR_Z02_EnergyCorridor": ["Untere Decks", "Energiekorridor"],
+  "Arcanum/Interiors/AR_Z02_LumiHostageRoom": ["Untere Decks", "Lumi-Geisel-Raum"],
+  "Arcanum/Interiors/AR_Z02_PowerCore": ["Untere Decks", "Energiekern"],
+  "Arcanum/Interiors/AR_Z02_WindgineRoom": ["Untere Decks", "Windtriebsraum"],
+  "Arcanum/Interiors/AR_Z03_ArkCrashCinematic": ["Spiralarche", "Flug nach Empyrea"],
+  "Arcanum/Interiors/AR_Z03_ArkShip": "Spiralarche"
 }

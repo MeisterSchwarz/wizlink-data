@@ -1,7 +1,3 @@
-{ 
-    "zones": { 
-        "DragonSpire/DS_Hub_Cathedral": { 
-            "name": "Die Basilika"     
-        } 
-    } 
+{
+  "DragonSpire/DS_Hub_Cathedral": "Die Basilika"
 }

@@ -5,6 +5,26 @@
         "WizardCity/WC_Streets/WC_Cyclops"
       ]
     },
+    "Ghost-Blue-L01": {
+      "zones": [
+        "WizardCity/WC_Streets/WC_Unicorn"
+      ]
+    },
+    "Ghost-Green-WCBoss-L02": {
+      "zones": [
+        "WizardCity/WC_Streets/Interiors/WC_Unicorn_T1"
+      ]
+    },
+    "Skeleton-Pirate-L01": {
+      "zones": [
+        "WizardCity/WC_Streets/WC_Unicorn"
+      ]
+    },
+    "Skeleton-Silver-WCBoss-L01": {
+      "zones": [
+        "WizardCity/WC_Streets/Interiors/WC_Unicorn_T2"
+      ]
+    },
     "Troll-Green-L01": {
       "zones": [
         "WizardCity/WC_Streets/WC_Cyclops"
@@ -12,3 +32,4 @@
     }
   }
 }
+

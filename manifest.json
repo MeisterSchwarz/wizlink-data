@@ -1,36 +1,6 @@
 {
-  "schemaVersion": 1,
-  "dataVersion": "2026.07.10",
+  "schemaVersion": 2,
+  "dataVersion": "2026.07.11",
   "defaultLanguage": "de",
-  "languages": ["de"],
-  "files": {
-    "enemies": [
-      {
-        "id": "Krokotopia",
-        "core": "core/enemies/Krokotopia.json",
-        "translations": {
-          "de": "i18n/de/enemies/Krokotopia.json"
-        }
-      }
-    ],
-    "items": [
-      {
-        "id": "reagents",
-        "core": "core/items/reagents.json",
-        "translations": {
-          "de": "i18n/de/items/reagents.json"
-        }
-      },
-      {
-        "id": "robes",
-        "core": "core/items/robes.json",
-        "translations": {
-          "de": "i18n/de/items/robes.json"
-        }
-      }
-    ],
-    "stats": {
-      "drops": "core/stats/drops.json"
-    }
-  }
+  "languages": ["de"]
 }
