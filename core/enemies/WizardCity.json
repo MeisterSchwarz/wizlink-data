@@ -2,6 +2,8 @@
   "zones": [
     "WizardCity/WC_Streets/Interiors/WC_Cyclops_T1",
     "WizardCity/WC_Streets/Interiors/WC_Cyclops_T2",
+    "WizardCity/WC_Streets/Interiors/WC_Triton_T1",
+    "WizardCity/WC_Streets/Interiors/WC_Triton_T2",
     "WizardCity/WC_Streets/Interiors/WC_Unicorn_T1",
     "WizardCity/WC_Streets/Interiors/WC_Unicorn_T2",
     "WizardCity/WC_Streets/WC_Cyclops",
@@ -9,16 +11,22 @@
     "WizardCity/WC_Streets/WC_Triton"
   ],
   "enemies": {
+    "Banshee-Red-L12": { "zones": [8] },
     "Cyclops-Blue-L02": { "zones": [1] },
     "Cyclops-BlueHelmet-WCBoss-L03": { "zones": [0] },
-    "Cyclops-Red-L02": { "zones": [0, 4] },
+    "Cyclops-Red-L02": { "zones": [0, 6] },
     "Cyclops-RedHelmet-WCBoss-L03": { "zones": [1] },
-    "Ghost-Blue-L02-B": { "zones": [5] },
-    "Ghost-Green-WCBoss-L02": { "zones": [2] },
-    "Skeleton-Silver-WCBoss-L01": { "zones": [3] },
-    "Troll-Green-L01": { "zones": [4] },
-    "WC-Eel-Blue-L02": { "zones": [6] },
-    "WC-UW-Skeleton-Pirate-L01": { "zones": [2] },
-    "WC-UW-Sprite-Dark-L01": { "zones": [3] }
+    "Ghost-Blue-L02-B": { "zones": [7] },
+    "Ghost-Green-WCBoss-L02": { "zones": [4] },
+    "Ghoul-Purple-L02": { "zones": [8] },
+    "Scarecrow-WCBoss-L03": { "zones": [2] },
+    "Skeleton-Gold-WCBoss-L03": { "zones": [3] },
+    "Skeleton-Silver-WCBoss-L01": { "zones": [5] },
+    "Troll-Green-L01": { "zones": [6] },
+    "WC-Eel-Blue-L02": { "zones": [8] },
+    "WC-TR-Banshee-Red-L12": { "zones": [3] },
+    "WC-TR-Ghoul-Purple-L02": { "zones": [2] },
+    "WC-UW-Skeleton-Pirate-L01": { "zones": [4] },
+    "WC-UW-Sprite-Dark-L01": { "zones": [5] }
   }
 }
