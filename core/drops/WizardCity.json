@@ -1,15 +1,3 @@
 {
-  "drops": [
-    "bt_roughspun-shoes",
-    "rg_leather-straps",
-    "tc_troll"
-  ],
-  "enemies": {
-    "Cyclops-Blue-L02": { "drops": [1] },
-    "Ghost-Blue-L01": { "drops": [] },
-    "Ghost-Green-WCBoss-L02": { "drops": [] },
-    "Skeleton-Pirate-L01": { "drops": [] },
-    "Skeleton-Silver-WCBoss-L01": { "drops": [] },
-    "Troll-Green-L01": { "drops": [0, 2] }
-  }
+  "Troll-Green-L01": { "TC": [0] }
 }
