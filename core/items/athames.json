@@ -1,4 +1,9 @@
 {
-    "AT_NovicesAthame": {"id": 0},
-    "AT_SturdyBlade": {"id": 1}
+    "AT_NovicesAthame": { "id": 0 },
+    "AT_SturdyBlade": { "id": 1 },
+    "AT_StuddedKnife": { "id": 2 },
+    "AT_RitualAthame": { "id": 3 },
+     "AT_JadeStuddedAthame": { "id": 4 },
+    "AT_JeweledDagger": { "id": 5 },
+    "AT_SimpleDirk": { "id": 6 }
 }
